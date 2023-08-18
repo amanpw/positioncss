@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sarkari exam</title>
+    <style>
+      .dropdown{
+        position: relative; top: 10px; 
+        display: inline-block;
+      }
+      .dropdown-content{
+        display: none; 
+        position: absolute;
+        background-color: #f9f9f9;
+        border: 1px solid #ddd;
+        max-height: 150px;
+        width: 200px;
+        overflow-y: scroll;
+      }
+      .dropdown:hover .dropdown-content{
+        display: block;
+      }
+      .dropdown-option{
+        padding: 10px;
+        cursor: pointer;
+      }
+      
+      .dropdown-option:hover{
+        background-color: #f1f1f1;
+      }
+      span{
+        background-color: orange;
+        padding: 10px 25px;
+
+      }
+    </style>
+</head>
+<body>
+ <div class="dropdown">
+    <span>Hover To View Options </span>
+ 
+ <div class="dropdown-content">
+    <div class="dropdown-option">option-1</div>
+    <div class="dropdown-option">option-2</div>
+    <div class="dropdown-option">option-3</div>
+    <div class="dropdown-option">option-4</div>
+    <div class="dropdown-option">option-5</div>
+    <div class="dropdown-option">option-6</div>
+    <div class="dropdown-option">option-7</div>
+    <div class="dropdown-option">option-8</div>
+    <div class="dropdown-option">option-9</div>
+    <div class="dropdown-option">option-10</div>
+ </div>
+ </div>
+
+</body>
+</html>

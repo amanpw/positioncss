@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(90, 77, 77);
+}
+.section-1{
+    background-color: whitesmoke; 
+    width: 700px; border: 0px; border-radius: 5px; margin: 0 auto;
+    margin-top: 40px; position: absolute; top: -10px; right: 30%;
+}
+.text{
+    background-color: whitesmoke;
+    margin-top: 0px;
+    padding: 20px ;
+    text-align: center;
+    border-bottom: 2px solid black;
+    
+}
+.name input{
+    width: 99%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    border-width: none;
+    color: aqua;
+    border-top: none;
+    border-bottom: 1px solid rgb(92, 89, 89);
+     
+
+}
+.email{
+    width: 46%;
+    border-width: none;
+    border-top: none;
+    padding: 10px;
+    margin-top: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid rgb(44, 40, 40);
+}
+.number{
+    width: 46%;
+    border-width: none;
+    border-top: none;
+    padding: 10px;
+    margin-top: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid rgb(17, 17, 19);
+}
+.area{
+    width: 46%;
+    border-width: none;
+    border-top: none;
+    padding: 10px;
+    margin-top: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid rgb(18, 18, 19);
+    
+}
+.button input{
+    background-color: blue;
+    padding: 10px 25px;
+    border-radius: 10px;
+    margin-left: 10px;
+    border: 0px solid black;
+
+}
+

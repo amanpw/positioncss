@@ -1,0 +1,42 @@
+body{
+    background-color:black;
+}
+.section1{
+   height: 30px;
+   width: 80%;
+   position: fixed ;
+   top: 30px;
+   right: 120px;
+   background-color: brown;
+   margin: 0 auto;
+   text-align: center;
+   padding-bottom: 20px;
+} 
+.section2{
+    margin-top: 100px;
+    text-align: center;
+    color: aliceblue;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+.section3{
+   width: 80%;
+    color: aliceblue;
+    text-align: center;
+    margin: 0 auto;
+}
+.section4 {
+    width: 80%;
+    margin: 0 auto;
+    color: aliceblue;
+    
+}section h2{
+    color: burlywood;
+    font-size: 30px;
+}
+
+
+
+   
